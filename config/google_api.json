@@ -1,0 +1,12 @@
+{
+  "audio": {
+    "content": "/* Your audio */"
+  },
+  "config": {
+    "enableAutomaticPunctuation": true,
+    "encoding": "LINEAR16",
+    "languageCode": "en-US",
+    "model": "default",
+    "key": "API KEY"
+  }
+}
